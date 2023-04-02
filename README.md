@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 ### Hi there 👋
 I am a student of mechatronic engineering at the Polytechnic of Turin. I work on algorithms and controls within several projects
 
