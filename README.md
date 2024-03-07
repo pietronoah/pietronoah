@@ -1,6 +1,6 @@
 
 ### Hi there
-I am a student of mechatronic engineering at the Politecnico di Torino, currently struding at Aalto University, Finland. I work on algorithms and controls within several projects
+I am a student of mechatronic engineering at the Politecnico di Torino, currently studing at Aalto University, Finland. I work on algorithms and controls within several projects.
 
 
 ## 🌐 Socials:
